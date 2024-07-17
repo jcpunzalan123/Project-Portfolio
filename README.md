@@ -3,7 +3,7 @@
 Here, you'll find a curated collection of my data-related projects, showcasing my expertise in data analysis, machine learning, and data visualization. Each project demonstrates my ability to derive insights, build predictive models, and create compelling visual narratives from diverse datasets. Explore the repositories to see my work in action and how I tackle real-world data challenges with a combination of statistical rigor and innovative techniques.
 
 * [Machine Learning](#Machine-Learning)
-* [Aritificial Intelligence](#Aritificial-Intelligence)
+* [Artificial Intelligence](#Artificial-Intelligence)
 * [SQL](#SQL)
 * [Tableau](#Tableau)
 
