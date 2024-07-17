@@ -19,7 +19,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Project                               | Description                           | Project Scope  |   Libraries |
 |---------------------------------------|---------------------------------------|----------------|-------------|
 | Image Recognition                     | This project is about...              | Image Data     |   numpy     |
-| Read local file using Local LLM       | The main goal is to...                | Stock Market   |   numpy     |
+| Read local file using Local LLM       | The main goal is to...                | Stock Market   |   jupyter, llama_index, langchain, pandas     |
 | Generate python code using Local LLM  | The main goal is to...                | Stock Market   |   numpy     |
 
 
