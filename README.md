@@ -8,29 +8,30 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 * [Tableau](#Tableau)
 
 ## Machine Learning
-| Project          | Description                           | Project Scope  |   Libraries |
-|------------------|---------------------------------------|----------------|-------------|
-| Overview         | This project is about...              | Image Data     |   numpy     |
-| Purpose          | The main goal is to...                | Stock Market   |   numpy     |
+| Project                         | Description                           | Project Scope  |   Libraries |
+|---------------------------------|---------------------------------------|----------------|-------------|
+| Predicting Credit Card Approval | This project is about...              | Image Data     |   numpy     |
+| Stock Market Forecasting        | The main goal is to...                | Stock Market   |   numpy     |
 
 
 
 ## Aritificial Intelligence
-| Project          | Description                           | Project Scope  |   Libraries |
-|------------------|---------------------------------------|----------------|-------------|
-| Overview         | This project is about...              | Image Data     |   numpy     |
-| Purpose          | The main goal is to...                | Stock Market   |   numpy     |
+| Project                               | Description                           | Project Scope  |   Libraries |
+|---------------------------------------|---------------------------------------|----------------|-------------|
+| Image Recognition                     | This project is about...              | Image Data     |   numpy     |
+| Read local file using Local LLM       | The main goal is to...                | Stock Market   |   numpy     |
+| Generate python code using Local LLM  | The main goal is to...                | Stock Market   |   numpy     |
 
 
 ## SQL
-| Project          | Description                           | Project Scope  |   Libraries |
-|------------------|---------------------------------------|----------------|-------------|
-| Overview         | This project is about...              | Image Data     |   numpy     |
-| Purpose          | The main goal is to...                | Stock Market   |   numpy     |
+| Project                   | Description                           | Project Scope  |   Libraries |
+|---------------------------|---------------------------------------|----------------|-------------|
+| Image Recognition         | This project is about...              | Image Data     |   numpy     |
+| Stock Market Forecasting  | The main goal is to...                | Stock Market   |   numpy     |
 
 
 ## Tableau
-| Project          | Description                           | Project Scope  |   Libraries |
-|------------------|---------------------------------------|----------------|-------------|
-| Overview         | This project is about...              | Image Data     |   numpy     |
-| Purpose          | The main goal is to...                | Stock Market   |   numpy     |
+| Project                   | Description                           | Project Scope  |   Libraries |
+|---------------------------|---------------------------------------|----------------|-------------|
+| Image Recognition         | This project is about...              | Image Data     |   numpy     |
+| Stock Market Forecasting  | The main goal is to...                | Stock Market   |   numpy     |
