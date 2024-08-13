@@ -8,9 +8,9 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 * [Tableau](#Tableau)
 
 ## Machine Learning
-| Project                         | Description                                     | Project Scope  |   Libraries              |
+| Project                         | Description                                     | Project Scope  |   Area              | Algorithm             |
 |---------------------------------|-------------------------------------------------|----------------|--------------------------|
-| [Handwritten Number Recognition](https://github.com/jcpunzalan123/handwritten-recognition) | Predicts handwritten digit inputted by the user | Image Data     | Keras, Tensorflow, PyQt5 |
+| [Handwritten Number Recognition](https://github.com/jcpunzalan123/handwritten-recognition) | Predicts handwritten digit inputted by the user | Image Preprocessing, Image Recognition | Supervised Learning - Classification | Convolutional Neural Network  |
 | Predicting Credit Card Approval | This project is about...                        | Image Data     |   numpy                  |
 | Stock Market Forecasting        | The main goal is to...                          | Stock Market   |   numpy                  |
 
@@ -31,8 +31,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Stock Market Forecasting  | The main goal is to...                | Stock Market   |   numpy     |
 
 
-## Tableau
-| Project                   | Description                           | Project Scope  |   Libraries |
+## Data Visualization
+| Project                   | Dataset                           | Visualization  |   Date Completed |
 |---------------------------|---------------------------------------|----------------|-------------|
-| Image Recognition         | This project is about...              | Image Data     |   numpy     |
-| Stock Market Forecasting  | The main goal is to...                | Stock Market   |   numpy     |
+|Annual Traffic Metro Manila| [Annual Average Daily Traffic (AADT)](https://data.gov.ph/index/public/dataset/Annual%20Average%20Daily%20Traffic%20%28AADT%29/ua1r4ams-fav9-yyqw-kdww-kjbqxpiev6la) | Image Data     |   PowerBI     |
