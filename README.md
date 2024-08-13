@@ -9,7 +9,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 
 ## Machine Learning
 | Project                         | Description                                     | Project Scope  |   Area              | Algorithm             |
-|---------------------------------|-------------------------------------------------|----------------|--------------------------|
+|---------------------------------|-------------------------------------------------|----------------|---------------------|-----------------------|
 | [Handwritten Number Recognition](https://github.com/jcpunzalan123/handwritten-recognition) | Predicts handwritten digit inputted by the user | Image Preprocessing, Image Recognition | Supervised Learning - Classification | Convolutional Neural Network  |
 | Predicting Credit Card Approval | This project is about...                        | Image Data     |   numpy                  |
 | Stock Market Forecasting        | The main goal is to...                          | Stock Market   |   numpy                  |
