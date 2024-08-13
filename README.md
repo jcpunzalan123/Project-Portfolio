@@ -11,8 +11,8 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Project                         | Description                                     | Project Scope  |   Area              | Algorithm             |
 |---------------------------------|-------------------------------------------------|----------------|---------------------|-----------------------|
 | [Handwritten Number Recognition](https://github.com/jcpunzalan123/handwritten-recognition) | Predicts handwritten digit inputted by the user | Image Preprocessing, Image Recognition | Supervised Learning - Classification | Convolutional Neural Network  |
-| Predicting Credit Card Approval | This project is about...                        | Image Data     |   numpy                  |
-| Stock Market Forecasting        | The main goal is to...                          | Stock Market   |   numpy                  |
+| Predicting Credit Card Approval | This project is about...                        | Image Data     |   Supervised Learning - Classification  |
+| Stock Market Forecasting        | The main goal is to...                          | Stock Market   |   Supervised Learning - Classification  |
 
 
 
@@ -34,4 +34,4 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 ## Data Visualization
 | Project                   | Dataset                           | Visualization  |   Date Completed |
 |---------------------------|---------------------------------------|----------------|-------------|
-|Annual Traffic Metro Manila| [Annual Average Daily Traffic (AADT)](https://data.gov.ph/index/public/dataset/Annual%20Average%20Daily%20Traffic%20%28AADT%29/ua1r4ams-fav9-yyqw-kdww-kjbqxpiev6la) | Image Data     |   PowerBI     |
+|Annual Average Traffic Metro Manila| [Annual Average Daily Traffic (AADT)](https://data.gov.ph/index/public/dataset/Annual%20Average%20Daily%20Traffic%20%28AADT%29/ua1r4ams-fav9-yyqw-kdww-kjbqxpiev6la) | Chart to visualize the growth of different vehicles passing the roads of Metro Manila    |      |
