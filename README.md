@@ -5,7 +5,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 * [Machine Learning](#Machine-Learning)
 * [Artificial Intelligence](#Artificial-Intelligence)
 * [SQL](#SQL)
-* [Tableau](#Tableau)
+* [Data Visualization](#Data Visualization)
 
 ## Machine Learning
 | Project                         | Description                                     | Project Scope  |   Area              | Algorithm             |
