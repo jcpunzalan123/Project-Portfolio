@@ -17,11 +17,10 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 
 
 ## Aritificial Intelligence
-| Project                               | Description                           | Project Scope  |   Libraries |
-|---------------------------------------|---------------------------------------|----------------|-------------|
-| Image Recognition                     | This project is about...              | Image Data     |   numpy     |
-| Read local file using Local LLM       | The main goal is to...                | Stock Market   |   jupyter, llama_index, langchain, pandas     |
-| Generate python code using Local LLM  | The main goal is to...                | Stock Market   |   numpy     |
+| Project                               | Dataset                               | Description    |   Project Scope |
+|---------------------------------------|---------------------------------------|----------------|-----------------|
+| Analyzing financial reports using Local LLM | [DigiPlus Financial Reports (AADT)](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a public company in PSE   |   Stock Market, Large Language Models (LLM), Analysis     |
+| Generate python code using Local LLM  | The main goal is to...                | Stock Market   |   Large Language Models (LLM), Analysis  |
 
 
 ## SQL
