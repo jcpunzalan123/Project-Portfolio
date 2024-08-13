@@ -8,10 +8,11 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 * [Tableau](#Tableau)
 
 ## Machine Learning
-| Project                         | Description                           | Project Scope  |   Libraries |
-|---------------------------------|---------------------------------------|----------------|-------------|
-| Predicting Credit Card Approval | This project is about...              | Image Data     |   numpy     |
-| Stock Market Forecasting        | The main goal is to...                | Stock Market   |   numpy     |
+| Project                         | Description                                     | Project Scope  |   Libraries              |
+|---------------------------------|-------------------------------------------------|----------------|--------------------------|
+| Handwritten Number Recognition  | Predicts handwritten digit inputted by the user | Image Data     | Keras, Tensorflow, PyQt5 |
+| Predicting Credit Card Approval | This project is about...                        | Image Data     |   numpy                  |
+| Stock Market Forecasting        | The main goal is to...                          | Stock Market   |   numpy                  |
 
 
 
