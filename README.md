@@ -19,7 +19,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 ## Aritificial Intelligence
 | Project                               | Dataset                               | Description    |   Project Scope |
 |---------------------------------------|---------------------------------------|----------------|-----------------|
-| Analyzing financial reports using Local LLM | [DigiPlus Interactive Corp. Financial Reports](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE   |   Stock Market, Large Language Models (LLM), Analysis     |
+| Analyzing financial reports using Local LLM | [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE   |   Stock Market, Large Language Models (LLM), Analysis     |
 | Generate python code using Local LLM  | The main goal is to...                | Stock Market   |   Large Language Models (LLM), Analysis  |
 
 
