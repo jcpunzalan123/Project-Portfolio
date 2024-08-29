@@ -11,7 +11,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Project                         | Description                                     | Project Scope  |   Area              | Algorithm             |
 |---------------------------------|-------------------------------------------------|----------------|---------------------|-----------------------|
 | [Handwritten Number Recognition](https://github.com/jcpunzalan123/handwritten-recognition) | Predicts handwritten digit inputted by the user | Image Preprocessing, Image Recognition | Supervised Learning - Classification | Convolutional Neural Network  |
-| [Predicting Credit Card Approval](https://github.com/jcpunzalan123/Credit-Card-Approval-Prediction) | Predicts if an applicant is 'Good' or 'Bad' client  | Data exploration, data preprocessing (scaling, label encoding, missing value imputation), EDA, fitting logistic regression model to the train set, making predictions, evaluating performance     |   Supervised Learning - Classification  | Logistic Regression, Decision Tree, XG Boost, and Random Forest  |
+| [Predicting Credit Card Approval](https://github.com/jcpunzalan123/Credit-Card-Approval-Prediction) | Predicts if an applicant is 'Good' or 'Bad' client  | Data exploration, data preprocessing (scaling, label encoding, missing value imputation), EDA, fitting different models to the train set, making predictions, evaluating performance     |   Supervised Learning - Classification  | Logistic Regression, Decision Tree, XG Boost, and Random Forest  |
 | Stock Market Forecasting        | The main goal is to...                          | Stock Market   |   Supervised Learning - Classification  |
 
 
