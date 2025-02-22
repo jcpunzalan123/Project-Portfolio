@@ -23,11 +23,6 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Generate python code using Local LLM  | The main goal is to...                | Stock Market   |   Large Language Models (LLM), Analysis  |
 
 
-## SQL
-| Project                   | Description                           | Project Scope  |   Libraries |
-|---------------------------|---------------------------------------|----------------|-------------|
-| Image Recognition         | This project is about...              | Image Data     |   numpy     |
-| Stock Market Forecasting  | The main goal is to...                | Stock Market   |   numpy     |
 
 
 ## Data Visualization
