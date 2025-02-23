@@ -19,7 +19,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Project                               | Dataset                               | Description    |   Project Scope |
 |---------------------------------------|---------------------------------------|----------------|-----------------|
 | [Analyzing financial reports using Local LLM](https://github.com/jcpunzalan123/Ollama-LLama3)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE   |   Stock Market, Large Language Models (LLM), Analysis     |
-| [Build API for Local LLM (https://github.com/jcpunzalan123/LLM_API)]  | No dataset is used for this project                | Build a LLM API using FastAPI     |   Large Language Models (LLM), API  |
+| [Build API for Local LLM](https://github.com/jcpunzalan123/LLM_API)  | No dataset is used for this project                | Build a LLM API using FastAPI     |   Large Language Models (LLM), API  |
 
 
 
