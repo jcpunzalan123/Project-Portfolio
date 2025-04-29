@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/22d2707c-a32f-4e49-89f6-f2f0a1490b55)# Project-Portfolio
+# Project-Portfolio
 ## Welcome to my GitHub project portfolio! 
 Here, you'll find a curated collection of my data-related projects, showcasing my expertise in data analysis, machine learning, and data visualization. Each project demonstrates my ability to derive insights, build predictive models, and create compelling visual narratives from diverse datasets. Explore the repositories to see my work in action and how I tackle real-world data challenges with a combination of statistical rigor and innovative techniques.
 
