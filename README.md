@@ -1,4 +1,4 @@
-# Project-Portfolio
+![image](https://github.com/user-attachments/assets/22d2707c-a32f-4e49-89f6-f2f0a1490b55)# Project-Portfolio
 ## Welcome to my GitHub project portfolio! 
 Here, you'll find a curated collection of my data-related projects, showcasing my expertise in data analysis, machine learning, and data visualization. Each project demonstrates my ability to derive insights, build predictive models, and create compelling visual narratives from diverse datasets. Explore the repositories to see my work in action and how I tackle real-world data challenges with a combination of statistical rigor and innovative techniques.
 
@@ -6,7 +6,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 * [Classification](#Classification)
 * [Forecasting](#Forecasting)
 * [Generative AI](#Generative-AI)
-* [Data Visualization](#Data-Visualization)
+* [Data Engineering](#Data-Engineering)
 
 ## Computer Vision
 | Project                         | Description                                     | Project Scope  |   Area              | Algorithm             |
@@ -37,7 +37,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 
 
 
-## Data Visualization
+## Data Engineering
 | Project                   | Dataset                           | Visualization  |   Date Completed |
 |---------------------------|---------------------------------------|----------------|-------------|
 |Annual Average Traffic Metro Manila| [Annual Average Daily Traffic (AADT)](https://data.gov.ph/index/public/dataset/Annual%20Average%20Daily%20Traffic%20%28AADT%29/ua1r4ams-fav9-yyqw-kdww-kjbqxpiev6la) | Chart to visualize the growth of different vehicles passing the roads of Metro Manila    |      |
