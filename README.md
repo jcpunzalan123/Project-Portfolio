@@ -33,7 +33,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | [Analyzing financial reports using Amazon Bedrock](https://github.com/jcpunzalan123/pdf_chat_using_bedrock)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE using Amazon Bedrock   |   Stock Market, Large Language Models (Amazon Bedrock), Cloud computing     |
 | [AI chatbot using Amazon Bedrock](https://github.com/jcpunzalan123/chatbot_using_bedrock)| None  | Simple AI chatbot assistant using Amazon Bedrock   |   Large Language Models (Amazon Bedrock), Cloud computing     |
 | [Build API for Local LLM](https://github.com/jcpunzalan123/LLM_API)  | No dataset is used for this project                | Build a LLM API using FastAPI     |   Large Language Models (LLM), API  |
-
+| [Tool Calling for Local LLM](https://github.com/jcpunzalan123/LLM-Tool-Call)  | No dataset is used for this project                | Implements Tool Calling for LLM for application to fetch real-time weather and stock data    |   Ollama, Yahoo Finance API  |
 
 
 
