@@ -30,11 +30,16 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 | Project                               | Dataset                               | Description    |   Project Scope |
 |---------------------------------------|---------------------------------------|----------------|-----------------|
 | [Analyzing financial reports using Local LLM](https://github.com/jcpunzalan123/Ollama-LLama3)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE using local LLM (Ollama) |   Stock Market, Large Language Models (Ollama), RAG     |
-| [Analyzing financial reports using Amazon Bedrock](https://github.com/jcpunzalan123/pdf_chat_using_bedrock)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE using Amazon Bedrock   |   Stock Market, Large Language Models (Amazon Bedrock), Cloud computing     |
-| [AI chatbot using Amazon Bedrock](https://github.com/jcpunzalan123/chatbot_using_bedrock)| None  | Simple AI chatbot assistant using Amazon Bedrock   |   Large Language Models (Amazon Bedrock), Cloud computing     |
 | [Build API for Local LLM](https://github.com/jcpunzalan123/LLM_API)  | No dataset is used for this project                | Build a LLM API using FastAPI     |   Large Language Models (LLM), API  |
 | [Tool Calling for Local LLM](https://github.com/jcpunzalan123/LLM-Tool-Call)  | No dataset is used for this project                | Implements Tool Calling for LLM for application to fetch real-time weather and stock data    |   Ollama, Yahoo Finance API  |
 
+
+## AWS Cloud Computing
+| Project                   | Dataset                           | Visualization  |   Date Completed |
+|---------------------------|---------------------------------------|----------------|-------------|
+| [Analyzing financial reports using Amazon Bedrock](https://github.com/jcpunzalan123/pdf_chat_using_bedrock)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE using Amazon Bedrock   |   Stock Market, Large Language Models (Amazon Bedrock), Cloud computing     |
+| [AI chatbot using Amazon Bedrock](https://github.com/jcpunzalan123/chatbot_using_bedrock)| None  | Simple AI chatbot assistant using Amazon Bedrock   |   Large Language Models (Amazon Bedrock), Cloud computing     |
+|Annual Average Traffic Metro Manila| [Annual Average Daily Traffic (AADT)](https://data.gov.ph/index/public/dataset/Annual%20Average%20Daily%20Traffic%20%28AADT%29/ua1r4ams-fav9-yyqw-kdww-kjbqxpiev6la) | Chart to visualize the growth of different vehicles passing the roads of Metro Manila    |      |
 
 
 ## Data Engineering
