@@ -6,6 +6,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 * [Classification](#Classification)
 * [Forecasting](#Forecasting)
 * [Generative AI](#Generative-AI)
+* [AWS Cloud Computing](#AWS-Cloud-Computing)
 * [Data Engineering](#Data-Engineering)
 
 ## Computer Vision
@@ -39,7 +40,7 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 |---------------------------|---------------------------------------|----------------|-------------|
 | [Analyzing financial reports using Amazon Bedrock](https://github.com/jcpunzalan123/pdf_chat_using_bedrock)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE using Amazon Bedrock   |   Stock Market, Large Language Models (Amazon Bedrock), Cloud computing     |
 | [AI chatbot using Amazon Bedrock](https://github.com/jcpunzalan123/chatbot_using_bedrock)| None  | Simple AI chatbot assistant using Amazon Bedrock   |   Large Language Models (Amazon Bedrock), Cloud computing     |
-|Annual Average Traffic Metro Manila| [Annual Average Daily Traffic (AADT)](https://data.gov.ph/index/public/dataset/Annual%20Average%20Daily%20Traffic%20%28AADT%29/ua1r4ams-fav9-yyqw-kdww-kjbqxpiev6la) | Chart to visualize the growth of different vehicles passing the roads of Metro Manila    |      |
+| Multiclass Text Classification|  |    |      |
 
 
 ## Data Engineering
