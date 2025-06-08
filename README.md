@@ -36,11 +36,11 @@ Here, you'll find a curated collection of my data-related projects, showcasing m
 
 
 ## AWS Cloud Computing
-| Project                   | Dataset                           | Visualization  |   Date Completed |
+| Project                   | Dataset                           | Description  |   Project Scope |
 |---------------------------|---------------------------------------|----------------|-------------|
 | [Analyzing financial reports using Amazon Bedrock](https://github.com/jcpunzalan123/pdf_chat_using_bedrock)| [Philippine Stock Exchange (PSE) Website](https://edge.pse.com.ph/financialReports/form.do)  | Extract insights from financial data of a publicly listed company in PSE using Amazon Bedrock   |   Stock Market, Large Language Models (Amazon Bedrock), Cloud computing     |
 | [AI chatbot using Amazon Bedrock](https://github.com/jcpunzalan123/chatbot_using_bedrock)| None  | Simple AI chatbot assistant using Amazon Bedrock   |   Large Language Models (Amazon Bedrock), Cloud computing     |
-| Multiclass Text Classification|  |    |      |
+| [Automated Receipt Processing](https://github.com/jcpunzalan123/automated-receipt-processing/tree/main) | None  | Automate receipt processing using AWS Services   | Amazon S3, Lambda, DynamoDB, Amazon SES     |
 
 
 ## Data Engineering
